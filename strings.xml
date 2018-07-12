@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ε</string>
+
+    <string name="fix_string">stop tracking</string>
+    <string name="start">start tracking</string>
+    <string name="action_settings">action_settings</string>
+
+    <string name="locationTxt">Continuous Location Update</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
